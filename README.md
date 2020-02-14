@@ -1,3 +1,3 @@
 # loveday
 to zyy for my love
-https://github.com/psp1564/loveday
+https://psp1564.github.io/loveday/index.html
